@@ -1,0 +1,2816 @@
+{
+  "சூத்திரன்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "low-caste (slur)",
+    "type": "tamil_script"
+  },
+  "soothiran": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "low-caste (slur)",
+    "type": "tanglish"
+  },
+  "சவ்வாத்தி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "promiscuous person",
+    "type": "tamil_script"
+  },
+  "savvaathi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "promiscuous person",
+    "type": "tanglish"
+  },
+  "கேவலமானவன்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "disgusting person",
+    "type": "tamil_script"
+  },
+  "kèvalamaanavan": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "disgusting person",
+    "type": "tanglish"
+  },
+  "கருமி": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "stingy miser",
+    "type": "tamil_script"
+  },
+  "karumi": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "stingy miser",
+    "type": "tanglish"
+  },
+  "ஆம்பள ஏமாத்தி": {
+    "category": "profanity",
+    "severity": "mild",
+    "meaning": "womanizer",
+    "type": "tamil_script"
+  },
+  "aambala yemaathi": {
+    "category": "profanity",
+    "severity": "mild",
+    "meaning": "womanizer",
+    "type": "tanglish"
+  },
+  "கிஸ்மத்": {
+    "category": "profanity",
+    "severity": "mild",
+    "meaning": "lustful",
+    "type": "tamil_script"
+  },
+  "kismat": {
+    "category": "profanity",
+    "severity": "mild",
+    "meaning": "lustful",
+    "type": "tanglish"
+  },
+  "புரொஸ்டிடியூட்": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "prostitute (English)",
+    "type": "tamil_script"
+  },
+  "prostitute": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "prostitute (English)",
+    "type": "tanglish"
+  },
+  "சூ‌த்தி மவன்": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "bastard",
+    "type": "tamil_script"
+  },
+  "soothi mavan": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "bastard",
+    "type": "tanglish"
+  },
+  "சூ‌த்தி பொம்பள": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "female bastard",
+    "type": "tamil_script"
+  },
+  "soothi bombala": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "female bastard",
+    "type": "tanglish"
+  },
+  "கஞ்சா": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "druggie",
+    "type": "tamil_script"
+  },
+  "ganja": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "druggie",
+    "type": "tanglish"
+  },
+  "சூ‌த்தி புண்ட": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "vulgar female slur",
+    "type": "tamil_script"
+  },
+  "soothi pundu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "vulgar female slur",
+    "type": "tanglish"
+  },
+  "புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt/vagina",
+    "type": "tamil_script"
+  },
+  "pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt/vagina",
+    "type": "tanglish"
+  },
+  "புண்டா": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt (variant)",
+    "type": "tamil_script"
+  },
+  "pundaa": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt (variant)",
+    "type": "tanglish"
+  },
+  "சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick/penis",
+    "type": "tamil_script"
+  },
+  "sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick/penis",
+    "type": "tanglish"
+  },
+  "சுன்னா": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick (variant)",
+    "type": "tamil_script"
+  },
+  "sunnnaa": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick (variant)",
+    "type": "tanglish"
+  },
+  "தேவிடியா": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "prostitute/whore",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "prostitute/whore",
+    "type": "tanglish"
+  },
+  "தேவ்டியா": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore (variant)",
+    "type": "tamil_script"
+  },
+  "dhevdiyaa": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore (variant)",
+    "type": "tanglish"
+  },
+  "தேவிடியா பைய": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "son of a whore",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa paiya": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "son of a whore",
+    "type": "tanglish"
+  },
+  "தேவிடியா புண்ட": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore cunt",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa pund": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore cunt",
+    "type": "tanglish"
+  },
+  "நாயே": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dog (abusive)",
+    "type": "tamil_script"
+  },
+  "naaye": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dog (abusive)",
+    "type": "tanglish"
+  },
+  "நாய்க்கு பிறந்தவன்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "born of a dog",
+    "type": "tamil_script"
+  },
+  "naaikku piranthavan": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "born of a dog",
+    "type": "tanglish"
+  },
+  "சூத்து": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "asshole/butt",
+    "type": "tamil_script"
+  },
+  "soothu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "asshole/butt",
+    "type": "tanglish"
+  },
+  "சூத்து ஓல்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "ass fuck",
+    "type": "tamil_script"
+  },
+  "soothu ol": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "ass fuck",
+    "type": "tanglish"
+  },
+  "ஓக்கிற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fucking",
+    "type": "tamil_script"
+  },
+  "ookkira": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fucking",
+    "type": "tanglish"
+  },
+  "ஓத்தா": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fucked",
+    "type": "tamil_script"
+  },
+  "ootha": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fucked",
+    "type": "tanglish"
+  },
+  "கூதி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt/pussy",
+    "type": "tamil_script"
+  },
+  "koothi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt/pussy",
+    "type": "tanglish"
+  },
+  "மயிரு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pubic hair/fuck all",
+    "type": "tamil_script"
+  },
+  "mayiru": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pubic hair/fuck all",
+    "type": "tanglish"
+  },
+  "மயிற்று": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pubic hair (variant)",
+    "type": "tamil_script"
+  },
+  "mayirru": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pubic hair (variant)",
+    "type": "tanglish"
+  },
+  "மயிருக்கு கூட லாயக்கு இல்ல": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "not even worth a hair",
+    "type": "tamil_script"
+  },
+  "mayirukku kooda laayakku illa": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "not even worth a hair",
+    "type": "tanglish"
+  },
+  "புண்டை மவன்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "son of a cunt",
+    "type": "tamil_script"
+  },
+  "pundai mavan": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "son of a cunt",
+    "type": "tanglish"
+  },
+  "புண்டை பொண்ணு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt girl",
+    "type": "tamil_script"
+  },
+  "pundai ponnu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt girl",
+    "type": "tanglish"
+  },
+  "சுன்னி தலை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dickhead",
+    "type": "tamil_script"
+  },
+  "sunni thalai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dickhead",
+    "type": "tanglish"
+  },
+  "சுன்னி சப்பு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "suck dick",
+    "type": "tamil_script"
+  },
+  "sunni sappu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "suck dick",
+    "type": "tanglish"
+  },
+  "சுன்னிய சப்புற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sucking dick",
+    "type": "tamil_script"
+  },
+  "sunniya sappura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sucking dick",
+    "type": "tanglish"
+  },
+  "தேவிடியா புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore cunt",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore cunt",
+    "type": "tanglish"
+  },
+  "தேவிடியா மகனே": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "son of a whore",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa magane": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "son of a whore",
+    "type": "tanglish"
+  },
+  "ஆம்பிள புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "man cunt (insult)",
+    "type": "tamil_script"
+  },
+  "aambila pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "man cunt (insult)",
+    "type": "tanglish"
+  },
+  "ஒழுக்கமில்லாத புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral cunt",
+    "type": "tamil_script"
+  },
+  "ozhukkam illaadha pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral cunt",
+    "type": "tanglish"
+  },
+  "ஒழுக்கமில்லாத சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral dick",
+    "type": "tamil_script"
+  },
+  "ozhukkam illaadha sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral dick",
+    "type": "tanglish"
+  },
+  "காத்த புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "burnt cunt",
+    "type": "tamil_script"
+  },
+  "kaaththa pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "burnt cunt",
+    "type": "tanglish"
+  },
+  "கருக்கிய புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dried cunt",
+    "type": "tamil_script"
+  },
+  "karukkiya pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dried cunt",
+    "type": "tanglish"
+  },
+  "சுருக்கம் புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "wrinkled cunt",
+    "type": "tamil_script"
+  },
+  "surukkam pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "wrinkled cunt",
+    "type": "tanglish"
+  },
+  "தொங்கும் சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hanging dick",
+    "type": "tamil_script"
+  },
+  "thonggum sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hanging dick",
+    "type": "tanglish"
+  },
+  "பெரிய சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "big dick",
+    "type": "tamil_script"
+  },
+  "periya sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "big dick",
+    "type": "tanglish"
+  },
+  "புண்டை மூடி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt cover",
+    "type": "tamil_script"
+  },
+  "pundai moodi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt cover",
+    "type": "tanglish"
+  },
+  "தேவிடியா ஓல்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore fuck",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa ol": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore fuck",
+    "type": "tanglish"
+  },
+  "தேவிடியா ஓக்கிற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore fucking",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa ookkira": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore fucking",
+    "type": "tanglish"
+  },
+  "புண்டை ஓக்கிற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt fucking",
+    "type": "tamil_script"
+  },
+  "pundai ookkira": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt fucking",
+    "type": "tanglish"
+  },
+  "சுன்னி ஓக்கிற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick fucking",
+    "type": "tamil_script"
+  },
+  "sunni ookkira": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick fucking",
+    "type": "tanglish"
+  },
+  "நாய் புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dog cunt",
+    "type": "tamil_script"
+  },
+  "naai pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dog cunt",
+    "type": "tanglish"
+  },
+  "பன்றி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pig cunt",
+    "type": "tamil_script"
+  },
+  "panri pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pig cunt",
+    "type": "tanglish"
+  },
+  "பன்றி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pig dick",
+    "type": "tamil_script"
+  },
+  "panri sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pig dick",
+    "type": "tanglish"
+  },
+  "கழுதை புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "donkey cunt",
+    "type": "tamil_script"
+  },
+  "kazhudhai pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "donkey cunt",
+    "type": "tanglish"
+  },
+  "ஏமாத்தி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cheating cunt",
+    "type": "tamil_script"
+  },
+  "yemaathi pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cheating cunt",
+    "type": "tanglish"
+  },
+  "விபசாரி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "adulterer dick",
+    "type": "tamil_script"
+  },
+  "vipasaari sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "adulterer dick",
+    "type": "tanglish"
+  },
+  "கொலை சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "murder dick",
+    "type": "tamil_script"
+  },
+  "kolai sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "murder dick",
+    "type": "tanglish"
+  },
+  "கொள்ளை புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "thief cunt",
+    "type": "tamil_script"
+  },
+  "kollai pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "thief cunt",
+    "type": "tanglish"
+  },
+  "கொள்ளை சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "thief dick",
+    "type": "tamil_script"
+  },
+  "kollai sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "thief dick",
+    "type": "tanglish"
+  },
+  "கள்ள புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "illicit cunt",
+    "type": "tamil_script"
+  },
+  "kalla pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "illicit cunt",
+    "type": "tanglish"
+  },
+  "கள்ள சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "illicit dick",
+    "type": "tamil_script"
+  },
+  "kalla sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "illicit dick",
+    "type": "tanglish"
+  },
+  "சப்புற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sucking cunt",
+    "type": "tamil_script"
+  },
+  "sappura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sucking cunt",
+    "type": "tanglish"
+  },
+  "சப்புற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sucking dick",
+    "type": "tamil_script"
+  },
+  "sappura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sucking dick",
+    "type": "tanglish"
+  },
+  "சாராய புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "alcoholic cunt",
+    "type": "tamil_script"
+  },
+  "saaraaya pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "alcoholic cunt",
+    "type": "tanglish"
+  },
+  "சாராய சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "alcoholic dick",
+    "type": "tamil_script"
+  },
+  "saaraaya sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "alcoholic dick",
+    "type": "tanglish"
+  },
+  "துரோகி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "traitor cunt",
+    "type": "tamil_script"
+  },
+  "thuroki pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "traitor cunt",
+    "type": "tanglish"
+  },
+  "நாச சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destructive dick",
+    "type": "tamil_script"
+  },
+  "naasa sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destructive dick",
+    "type": "tanglish"
+  },
+  "கருமி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "miser cunt",
+    "type": "tamil_script"
+  },
+  "karumi pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "miser cunt",
+    "type": "tanglish"
+  },
+  "கருமி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "miser dick",
+    "type": "tamil_script"
+  },
+  "karumi sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "miser dick",
+    "type": "tanglish"
+  },
+  "பொறுக்கி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "rascal cunt",
+    "type": "tamil_script"
+  },
+  "porukki pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "rascal cunt",
+    "type": "tanglish"
+  },
+  "சனியன் புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "wretched cunt",
+    "type": "tamil_script"
+  },
+  "saniyan pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "wretched cunt",
+    "type": "tanglish"
+  },
+  "முட்டாள் புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fool cunt",
+    "type": "tamil_script"
+  },
+  "muttaal pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fool cunt",
+    "type": "tanglish"
+  },
+  "முட்டாள் சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fool dick",
+    "type": "tamil_script"
+  },
+  "muttaal sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fool dick",
+    "type": "tanglish"
+  },
+  "லூசு புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crazy cunt",
+    "type": "tamil_script"
+  },
+  "loosu pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crazy cunt",
+    "type": "tanglish"
+  },
+  "லூசு சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crazy dick",
+    "type": "tamil_script"
+  },
+  "loosu sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crazy dick",
+    "type": "tanglish"
+  },
+  "வேஸ்டு சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "waste dick",
+    "type": "tamil_script"
+  },
+  "vèstu sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "waste dick",
+    "type": "tanglish"
+  },
+  "ஏழை புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "poor cunt",
+    "type": "tamil_script"
+  },
+  "èlazhai pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "poor cunt",
+    "type": "tanglish"
+  },
+  "கஞ்சி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "gruel dick",
+    "type": "tamil_script"
+  },
+  "kanji sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "gruel dick",
+    "type": "tanglish"
+  },
+  "கொடுப்பான் புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "giver cunt",
+    "type": "tamil_script"
+  },
+  "koduppaan pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "giver cunt",
+    "type": "tanglish"
+  },
+  "கொடுப்பான் சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "giver dick",
+    "type": "tamil_script"
+  },
+  "koduppaan sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "giver dick",
+    "type": "tanglish"
+  },
+  "அழுற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crying cunt",
+    "type": "tamil_script"
+  },
+  "azhura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crying cunt",
+    "type": "tanglish"
+  },
+  "அழுற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crying dick",
+    "type": "tamil_script"
+  },
+  "azhura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crying dick",
+    "type": "tanglish"
+  },
+  "சிரிக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "laughing cunt",
+    "type": "tamil_script"
+  },
+  "sirikkura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "laughing cunt",
+    "type": "tanglish"
+  },
+  "சிரிக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "laughing dick",
+    "type": "tamil_script"
+  },
+  "sirikkura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "laughing dick",
+    "type": "tanglish"
+  },
+  "நிக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "standing dick",
+    "type": "tamil_script"
+  },
+  "nikkura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "standing dick",
+    "type": "tanglish"
+  },
+  "உட்கார புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sitting cunt",
+    "type": "tamil_script"
+  },
+  "udkaara pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sitting cunt",
+    "type": "tanglish"
+  },
+  "உட்கார சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sitting dick",
+    "type": "tamil_script"
+  },
+  "udkaara sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sitting dick",
+    "type": "tanglish"
+  },
+  "படுக்க சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sleeping dick",
+    "type": "tamil_script"
+  },
+  "padukka sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sleeping dick",
+    "type": "tanglish"
+  },
+  "ஓடுற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "running cunt",
+    "type": "tamil_script"
+  },
+  "odura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "running cunt",
+    "type": "tanglish"
+  },
+  "நடக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "walking cunt",
+    "type": "tamil_script"
+  },
+  "nadakkura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "walking cunt",
+    "type": "tanglish"
+  },
+  "நடக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "walking dick",
+    "type": "tamil_script"
+  },
+  "nadakkura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "walking dick",
+    "type": "tanglish"
+  },
+  "தின்னுற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "eating cunt",
+    "type": "tamil_script"
+  },
+  "thinura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "eating cunt",
+    "type": "tanglish"
+  },
+  "தின்னுற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "eating dick",
+    "type": "tamil_script"
+  },
+  "thinura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "eating dick",
+    "type": "tanglish"
+  },
+  "குடிக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "drinking cunt",
+    "type": "tamil_script"
+  },
+  "kudikkura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "drinking cunt",
+    "type": "tanglish"
+  },
+  "குடிக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "drinking dick",
+    "type": "tamil_script"
+  },
+  "kudikkura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "drinking dick",
+    "type": "tanglish"
+  },
+  "பேசுற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "talking cunt",
+    "type": "tamil_script"
+  },
+  "pèsura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "talking cunt",
+    "type": "tanglish"
+  },
+  "பேசுற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "talking dick",
+    "type": "tamil_script"
+  },
+  "pèsura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "talking dick",
+    "type": "tanglish"
+  },
+  "கேக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "listening cunt",
+    "type": "tamil_script"
+  },
+  "kèkkura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "listening cunt",
+    "type": "tanglish"
+  },
+  "கேக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "listening dick",
+    "type": "tamil_script"
+  },
+  "kèkkura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "listening dick",
+    "type": "tanglish"
+  },
+  "பாக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "watching cunt",
+    "type": "tamil_script"
+  },
+  "paakkura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "watching cunt",
+    "type": "tanglish"
+  },
+  "பாக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "watching dick",
+    "type": "tamil_script"
+  },
+  "paakkura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "watching dick",
+    "type": "tanglish"
+  },
+  "முகந்த புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smelling cunt",
+    "type": "tamil_script"
+  },
+  "mugandha pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smelling cunt",
+    "type": "tanglish"
+  },
+  "முகந்த சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smelling dick",
+    "type": "tamil_script"
+  },
+  "mugandha sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smelling dick",
+    "type": "tanglish"
+  },
+  "சுவாசிக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "breathing cunt",
+    "type": "tamil_script"
+  },
+  "suvaa sikura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "breathing cunt",
+    "type": "tanglish"
+  },
+  "சுவாசிக்குற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "breathing dick",
+    "type": "tamil_script"
+  },
+  "suvaa sikura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "breathing dick",
+    "type": "tanglish"
+  },
+  "வாழுற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "living cunt",
+    "type": "tamil_script"
+  },
+  "vaazhura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "living cunt",
+    "type": "tanglish"
+  },
+  "செத்த புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dead cunt",
+    "type": "tamil_script"
+  },
+  "sèththa pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dead cunt",
+    "type": "tanglish"
+  },
+  "செத்த சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dead dick",
+    "type": "tamil_script"
+  },
+  "sèththa sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dead dick",
+    "type": "tanglish"
+  },
+  "வளர்ந்த புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "grown cunt",
+    "type": "tamil_script"
+  },
+  "valarntha pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "grown cunt",
+    "type": "tanglish"
+  },
+  "வளர்ந்த சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "grown dick",
+    "type": "tamil_script"
+  },
+  "valarntha sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "grown dick",
+    "type": "tanglish"
+  },
+  "முதிர்ந்த புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "matured cunt",
+    "type": "tamil_script"
+  },
+  "muthirntha pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "matured cunt",
+    "type": "tanglish"
+  },
+  "முதிர்ந்த சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "matured dick",
+    "type": "tamil_script"
+  },
+  "muthirntha sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "matured dick",
+    "type": "tanglish"
+  },
+  "கெட்ட புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "spoiled cunt",
+    "type": "tamil_script"
+  },
+  "kèttha pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "spoiled cunt",
+    "type": "tanglish"
+  },
+  "சீரழிஞ்ச புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destroyed cunt",
+    "type": "tamil_script"
+  },
+  "seerazhinja pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destroyed cunt",
+    "type": "tanglish"
+  },
+  "முறிஞ்ச புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "broken cunt",
+    "type": "tamil_script"
+  },
+  "murinja pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "broken cunt",
+    "type": "tanglish"
+  },
+  "முறிஞ்ச சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "broken dick",
+    "type": "tamil_script"
+  },
+  "murinja sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "broken dick",
+    "type": "tanglish"
+  },
+  "உடைஞ்ச புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smashed cunt",
+    "type": "tamil_script"
+  },
+  "udainja pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smashed cunt",
+    "type": "tanglish"
+  },
+  "நொறுங்குன புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crumbled cunt",
+    "type": "tamil_script"
+  },
+  "norungguna pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crumbled cunt",
+    "type": "tanglish"
+  },
+  "நொறுங்குன சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crumbled dick",
+    "type": "tamil_script"
+  },
+  "norungguna sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "crumbled dick",
+    "type": "tanglish"
+  },
+  "காய்ஞ்ச புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dried cunt",
+    "type": "tamil_script"
+  },
+  "kaayinja pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dried cunt",
+    "type": "tanglish"
+  },
+  "காய்ஞ்ச சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dried dick",
+    "type": "tamil_script"
+  },
+  "kaayinja sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dried dick",
+    "type": "tanglish"
+  },
+  "சுண்ணி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick (colloquial)",
+    "type": "tamil_script"
+  },
+  "சுண்ணாம்பு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "lime (dick reference)",
+    "type": "tamil_script"
+  },
+  "sunnaambu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "lime (dick reference)",
+    "type": "tanglish"
+  },
+  "கொடுக்கிற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "giving (sexual)",
+    "type": "tamil_script"
+  },
+  "kodukkira": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "giving (sexual)",
+    "type": "tanglish"
+  },
+  "வாங்கு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "take (sexual)",
+    "type": "tamil_script"
+  },
+  "vaanggu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "take (sexual)",
+    "type": "tanglish"
+  },
+  "போடுற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "putting (sexual)",
+    "type": "tamil_script"
+  },
+  "podura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "putting (sexual)",
+    "type": "tanglish"
+  },
+  "திருப்புற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "turning (sexual)",
+    "type": "tamil_script"
+  },
+  "thiruppura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "turning (sexual)",
+    "type": "tanglish"
+  },
+  "திருப்பு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "turn (sexual)",
+    "type": "tamil_script"
+  },
+  "thiruppu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "turn (sexual)",
+    "type": "tanglish"
+  },
+  "சுத்துற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "circling (sexual)",
+    "type": "tamil_script"
+  },
+  "suththura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "circling (sexual)",
+    "type": "tanglish"
+  },
+  "சுத்து": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "circle (sexual)",
+    "type": "tamil_script"
+  },
+  "suththu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "circle (sexual)",
+    "type": "tanglish"
+  },
+  "குத்துற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "stabbing (sexual)",
+    "type": "tamil_script"
+  },
+  "kuththura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "stabbing (sexual)",
+    "type": "tanglish"
+  },
+  "குத்து": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "stab (sexual)",
+    "type": "tamil_script"
+  },
+  "kuththu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "stab (sexual)",
+    "type": "tanglish"
+  },
+  "அடி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hit (sexual)",
+    "type": "tamil_script"
+  },
+  "adi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hit (sexual)",
+    "type": "tanglish"
+  },
+  "தாக்கு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "attack (sexual)",
+    "type": "tamil_script"
+  },
+  "thaakku": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "attack (sexual)",
+    "type": "tanglish"
+  },
+  "செய்யுற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "doing (sexual)",
+    "type": "tamil_script"
+  },
+  "seyyura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "doing (sexual)",
+    "type": "tanglish"
+  },
+  "பண்ணு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "do (sexual)",
+    "type": "tamil_script"
+  },
+  "pannu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "do (sexual)",
+    "type": "tanglish"
+  },
+  "உன் அம்மாவை கூத்த": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother (explicit)",
+    "type": "tamil_script"
+  },
+  "un ammaavai kooththa": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother (explicit)",
+    "type": "tanglish"
+  },
+  "உன் அப்பாவை கூத்த": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father (explicit)",
+    "type": "tamil_script"
+  },
+  "un appaavai kooththa": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father (explicit)",
+    "type": "tanglish"
+  },
+  "உன் அப்பா சுன்னி": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's dick",
+    "type": "tamil_script"
+  },
+  "un appa sunni": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's dick",
+    "type": "tanglish"
+  },
+  "உன் அப்பா புண்டை மவன்": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's cunt son",
+    "type": "tamil_script"
+  },
+  "un appa pundai mavan": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's cunt son",
+    "type": "tanglish"
+  },
+  "உன் சகோதரி புண்டை": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your sister's cunt",
+    "type": "tamil_script"
+  },
+  "un sahodari pundai": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your sister's cunt",
+    "type": "tanglish"
+  },
+  "உன் சகோதரி தேவிடியா": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your sister is a whore",
+    "type": "tamil_script"
+  },
+  "un sahodari dhevidiyaa": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your sister is a whore",
+    "type": "tanglish"
+  },
+  "உன் பொண்ணு புண்டை": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your daughter's cunt",
+    "type": "tamil_script"
+  },
+  "un ponnu pundai": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your daughter's cunt",
+    "type": "tanglish"
+  },
+  "உன் பொண்ணு தேவிடியா": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your daughter is a whore",
+    "type": "tamil_script"
+  },
+  "un ponnu dhevidiyaa": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your daughter is a whore",
+    "type": "tanglish"
+  },
+  "உன் வீட்டுக்காரி புண்டை": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your wife's cunt",
+    "type": "tamil_script"
+  },
+  "un veettukaari pundai": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your wife's cunt",
+    "type": "tanglish"
+  },
+  "உன் அம்மா சூத்து": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's ass",
+    "type": "tamil_script"
+  },
+  "un amma soothu": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's ass",
+    "type": "tanglish"
+  },
+  "உன் அப்பா சூத்து": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's ass",
+    "type": "tamil_script"
+  },
+  "un appa soothu": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's ass",
+    "type": "tanglish"
+  },
+  "உன் அம்மா கூதி": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's pussy",
+    "type": "tamil_script"
+  },
+  "un amma koothi": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's pussy",
+    "type": "tanglish"
+  },
+  "உன் அப்பா கூதி": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's pussy",
+    "type": "tamil_script"
+  },
+  "un appa koothi": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's pussy",
+    "type": "tanglish"
+  },
+  "உன் அம்மா ஓல்": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother fuck",
+    "type": "tamil_script"
+  },
+  "un amma ol": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother fuck",
+    "type": "tanglish"
+  },
+  "உன் அப்பா ஓல்": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father fuck",
+    "type": "tamil_script"
+  },
+  "un appa ol": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father fuck",
+    "type": "tanglish"
+  },
+  "உன் அப்பா மயிரு": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's pubic hair",
+    "type": "tamil_script"
+  },
+  "un appa mayiru": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your father's pubic hair",
+    "type": "tanglish"
+  },
+  "தேவர் மகன்": {
+    "category": "slur",
+    "severity": "mild",
+    "meaning": "caste-based insult",
+    "type": "tamil_script"
+  },
+  "dèvar magan": {
+    "category": "slur",
+    "severity": "mild",
+    "meaning": "caste-based insult",
+    "type": "tanglish"
+  },
+  "முதலியார் மகன்": {
+    "category": "slur",
+    "severity": "mild",
+    "meaning": "caste insult",
+    "type": "tamil_script"
+  },
+  "muthaliyaar magan": {
+    "category": "slur",
+    "severity": "mild",
+    "meaning": "caste insult",
+    "type": "tanglish"
+  },
+  "நாயுடு": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Yadav)",
+    "type": "tamil_script"
+  },
+  "naayudu": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Yadav)",
+    "type": "tanglish"
+  },
+  "தேவர்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Thevar)",
+    "type": "tamil_script"
+  },
+  "dèvar": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Thevar)",
+    "type": "tanglish"
+  },
+  "கவுண்டன்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Gounder)",
+    "type": "tamil_script"
+  },
+  "gavundan": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Gounder)",
+    "type": "tanglish"
+  },
+  "செட்டியார்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Chettiar)",
+    "type": "tamil_script"
+  },
+  "chettiyaar": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Chettiar)",
+    "type": "tanglish"
+  },
+  "மிருகம்": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "animal/beast",
+    "type": "tamil_script"
+  },
+  "mirugam": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "animal/beast",
+    "type": "tanglish"
+  },
+  "காட்டுமிராண்டி": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "savage",
+    "type": "tamil_script"
+  },
+  "kaattumirandi": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "savage",
+    "type": "tanglish"
+  },
+  "மிரண்டவன்": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "frightened person",
+    "type": "tamil_script"
+  },
+  "mirandhavan": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "frightened person",
+    "type": "tanglish"
+  },
+  "கொடியவன்": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "cruel person",
+    "type": "tamil_script"
+  },
+  "kodiyavan": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "cruel person",
+    "type": "tanglish"
+  },
+  "கொலைகாரன்": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "murderer",
+    "type": "tamil_script"
+  },
+  "kolaikaran": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "murderer",
+    "type": "tanglish"
+  },
+  "வன்முறை": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "violence",
+    "type": "tamil_script"
+  },
+  "vanmurai": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "violence",
+    "type": "tanglish"
+  },
+  "ஒழுக்கமில்லாதவன்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral person",
+    "type": "tamil_script"
+  },
+  "ozhukkamillaatavan": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral person",
+    "type": "tanglish"
+  },
+  "லைலா": {
+    "category": "profanity",
+    "severity": "mild",
+    "meaning": "flirty person",
+    "type": "tamil_script"
+  },
+  "laila": {
+    "category": "profanity",
+    "severity": "mild",
+    "meaning": "flirty person",
+    "type": "tanglish"
+  },
+  "விலைமகள்": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "prostitute",
+    "type": "tamil_script"
+  },
+  "vilaimagal": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "prostitute",
+    "type": "tanglish"
+  },
+  "dèvidiya": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "slut",
+    "type": "tanglish"
+  },
+  "தேவ்டியா பொம்பள": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "slut (female)",
+    "type": "tamil_script"
+  },
+  "dèvdiya bombala": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "slut (female)",
+    "type": "tanglish"
+  },
+  "ஒழுக்கம் இல்லாத பொம்பள": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral woman",
+    "type": "tamil_script"
+  },
+  "ozhukkam illaada bombala": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "immoral woman",
+    "type": "tanglish"
+  },
+  "ஓல்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fuck (slang)",
+    "type": "tamil_script"
+  },
+  "ol": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "fuck (slang)",
+    "type": "tanglish"
+  },
+  "கூத்தி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt (variant)",
+    "type": "tamil_script"
+  },
+  "kooththi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt (variant)",
+    "type": "tanglish"
+  },
+  "மயிர் புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hairy cunt",
+    "type": "tamil_script"
+  },
+  "mayiru pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hairy cunt",
+    "type": "tanglish"
+  },
+  "புண்டை குண்டி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt ass",
+    "type": "tamil_script"
+  },
+  "pundai kundi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cunt ass",
+    "type": "tanglish"
+  },
+  "சுன்னி தொங்க": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick hanging",
+    "type": "tamil_script"
+  },
+  "sunni thonga": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick hanging",
+    "type": "tanglish"
+  },
+  "தேவிடியா பொண்ணு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore girl",
+    "type": "tamil_script"
+  },
+  "dhevidiyaa ponnu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "whore girl",
+    "type": "tanglish"
+  },
+  "பொம்பள புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "woman cunt",
+    "type": "tamil_script"
+  },
+  "bombala pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "woman cunt",
+    "type": "tanglish"
+  },
+  "சூ‌த்தி பொண்ணு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "bastard girl",
+    "type": "tamil_script"
+  },
+  "soothi ponnu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "bastard girl",
+    "type": "tanglish"
+  },
+  "சிறு‌த்தி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "small dick",
+    "type": "tamil_script"
+  },
+  "siruththi sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "small dick",
+    "type": "tanglish"
+  },
+  "சுன்னி மூடி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick cover",
+    "type": "tamil_script"
+  },
+  "sunni moodi": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dick cover",
+    "type": "tanglish"
+  },
+  "நாய் சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dog dick",
+    "type": "tamil_script"
+  },
+  "naai sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "dog dick",
+    "type": "tanglish"
+  },
+  "கழுதை சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "donkey dick",
+    "type": "tamil_script"
+  },
+  "kazhudhai sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "donkey dick",
+    "type": "tanglish"
+  },
+  "ஏமாத்தி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cheating dick",
+    "type": "tamil_script"
+  },
+  "yemaathi sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "cheating dick",
+    "type": "tanglish"
+  },
+  "விபசாரி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "adulterer cunt",
+    "type": "tamil_script"
+  },
+  "vipasaari pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "adulterer cunt",
+    "type": "tanglish"
+  },
+  "கொலை புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "murder cunt",
+    "type": "tamil_script"
+  },
+  "kolai pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "murder cunt",
+    "type": "tanglish"
+  },
+  "கஞ்சா புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "druggie cunt",
+    "type": "tamil_script"
+  },
+  "ganja pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "druggie cunt",
+    "type": "tanglish"
+  },
+  "கஞ்சா சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "druggie dick",
+    "type": "tamil_script"
+  },
+  "ganja sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "druggie dick",
+    "type": "tanglish"
+  },
+  "துரோகி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "traitor dick",
+    "type": "tamil_script"
+  },
+  "thuroki sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "traitor dick",
+    "type": "tanglish"
+  },
+  "நாச புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destructive cunt",
+    "type": "tamil_script"
+  },
+  "naasa pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destructive cunt",
+    "type": "tanglish"
+  },
+  "பொறுக்கி சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "rascal dick",
+    "type": "tamil_script"
+  },
+  "porukki sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "rascal dick",
+    "type": "tanglish"
+  },
+  "கெழு புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "idiot cunt",
+    "type": "tamil_script"
+  },
+  "kezu pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "idiot cunt",
+    "type": "tanglish"
+  },
+  "கெழு சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "idiot dick",
+    "type": "tamil_script"
+  },
+  "kezu sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "idiot dick",
+    "type": "tanglish"
+  },
+  "கஞ்சி புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "gruel cunt",
+    "type": "tamil_script"
+  },
+  "kanji pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "gruel cunt",
+    "type": "tanglish"
+  },
+  "நிக்குற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "standing cunt",
+    "type": "tamil_script"
+  },
+  "nikkura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "standing cunt",
+    "type": "tanglish"
+  },
+  "ஓடுற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "running dick",
+    "type": "tamil_script"
+  },
+  "odura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "running dick",
+    "type": "tanglish"
+  },
+  "தொடுற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "touching cunt",
+    "type": "tamil_script"
+  },
+  "thodura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "touching cunt",
+    "type": "tanglish"
+  },
+  "வாழுற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "living dick",
+    "type": "tamil_script"
+  },
+  "vaazhura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "living dick",
+    "type": "tanglish"
+  },
+  "பிறந்த புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "born cunt",
+    "type": "tamil_script"
+  },
+  "pirandha pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "born cunt",
+    "type": "tanglish"
+  },
+  "பிறந்த சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "born dick",
+    "type": "tamil_script"
+  },
+  "pirandha sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "born dick",
+    "type": "tanglish"
+  },
+  "கெட்ட சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "spoiled dick",
+    "type": "tamil_script"
+  },
+  "kèttha sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "spoiled dick",
+    "type": "tanglish"
+  },
+  "சீரழிஞ்ச சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destroyed dick",
+    "type": "tamil_script"
+  },
+  "seerazhinja sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "destroyed dick",
+    "type": "tanglish"
+  },
+  "உடைஞ்ச சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smashed dick",
+    "type": "tamil_script"
+  },
+  "udainja sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "smashed dick",
+    "type": "tanglish"
+  },
+  "கொடு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "give (sexual connotation)",
+    "type": "tamil_script"
+  },
+  "kodu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "give (sexual connotation)",
+    "type": "tanglish"
+  },
+  "போடு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "put (sexual)",
+    "type": "tamil_script"
+  },
+  "podu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "put (sexual)",
+    "type": "tanglish"
+  },
+  "தள்ளுற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pushing (sexual)",
+    "type": "tamil_script"
+  },
+  "thallura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pushing (sexual)",
+    "type": "tanglish"
+  },
+  "தள்ளு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "push (sexual)",
+    "type": "tamil_script"
+  },
+  "thallu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "push (sexual)",
+    "type": "tanglish"
+  },
+  "இழுக்குற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pulling (sexual)",
+    "type": "tamil_script"
+  },
+  "izhukura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pulling (sexual)",
+    "type": "tanglish"
+  },
+  "இழு": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pull (sexual)",
+    "type": "tamil_script"
+  },
+  "izhu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "pull (sexual)",
+    "type": "tanglish"
+  },
+  "செய்": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "do (sexual)",
+    "type": "tamil_script"
+  },
+  "sey": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "do (sexual)",
+    "type": "tanglish"
+  },
+  "பண்ணுற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "doing (sexual)",
+    "type": "tamil_script"
+  },
+  "pannura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "doing (sexual)",
+    "type": "tanglish"
+  },
+  "உன் அம்மா மயிரு": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's pubic hair",
+    "type": "tamil_script"
+  },
+  "un amma mayiru": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's pubic hair",
+    "type": "tanglish"
+  },
+  "பள்ளன்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "Pallar caste slur",
+    "type": "tamil_script"
+  },
+  "pollan": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "Pallar caste slur",
+    "type": "tanglish"
+  },
+  "நாடார்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Nadar)",
+    "type": "tamil_script"
+  },
+  "naadar": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Nadar)",
+    "type": "tanglish"
+  },
+  "முதலியார்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Mudaliar)",
+    "type": "tamil_script"
+  },
+  "muthaliyaar": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Mudaliar)",
+    "type": "tanglish"
+  },
+  "நாயக்கர்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Nair)",
+    "type": "tamil_script"
+  },
+  "naayakkar": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Nair)",
+    "type": "tanglish"
+  },
+  "மிருகத்தனம்": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "animalistic behavior",
+    "type": "tamil_script"
+  },
+  "mirugaththanam": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "animalistic behavior",
+    "type": "tanglish"
+  },
+  "பயங்கரவாதி": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "terrorist",
+    "type": "tamil_script"
+  },
+  "bayangara vaadhi": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "terrorist",
+    "type": "tanglish"
+  },
+  "விபசாரி": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "adulterer",
+    "type": "tamil_script"
+  },
+  "vipasaari": {
+    "category": "profanity",
+    "severity": "moderate",
+    "meaning": "adulterer",
+    "type": "tanglish"
+  },
+  "விலைமாது": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "call girl",
+    "type": "tamil_script"
+  },
+  "vilaimaathu": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "call girl",
+    "type": "tanglish"
+  },
+  "சனியன் சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "wretched dick",
+    "type": "tamil_script"
+  },
+  "saniyan sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "wretched dick",
+    "type": "tanglish"
+  },
+  "ஏழை சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "poor dick",
+    "type": "tamil_script"
+  },
+  "èlazhai sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "poor dick",
+    "type": "tanglish"
+  },
+  "கத்துற புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "screaming cunt",
+    "type": "tamil_script"
+  },
+  "kaththura pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "screaming cunt",
+    "type": "tanglish"
+  },
+  "படுக்க புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sleeping cunt",
+    "type": "tamil_script"
+  },
+  "padukka pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "sleeping cunt",
+    "type": "tanglish"
+  },
+  "தொடுற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "touching dick",
+    "type": "tamil_script"
+  },
+  "thodura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "touching dick",
+    "type": "tanglish"
+  },
+  "வாங்குற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "taking (sexual)",
+    "type": "tamil_script"
+  },
+  "vaanggura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "taking (sexual)",
+    "type": "tanglish"
+  },
+  "அடிக்குற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hitting (sexual)",
+    "type": "tamil_script"
+  },
+  "adikkura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "hitting (sexual)",
+    "type": "tanglish"
+  },
+  "தாக்குற": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "attacking (sexual)",
+    "type": "tamil_script"
+  },
+  "thaakkura": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "attacking (sexual)",
+    "type": "tanglish"
+  },
+  "உன் அம்மா புண்டை": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's cunt",
+    "type": "tamil_script"
+  },
+  "un amma pundai": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother's cunt",
+    "type": "tanglish"
+  },
+  "உன் அம்மா தேவிடியா": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother is a whore",
+    "type": "tamil_script"
+  },
+  "un amma dhevidiyaa": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your mother is a whore",
+    "type": "tanglish"
+  },
+  "பஞ்சமன்": {
+    "category": "slur",
+    "severity": "mild",
+    "meaning": "fifth caste (untouchable)",
+    "type": "tamil_script"
+  },
+  "panchaman": {
+    "category": "slur",
+    "severity": "mild",
+    "meaning": "fifth caste (untouchable)",
+    "type": "tanglish"
+  },
+  "சக்கிலி": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "untouchable (slur)",
+    "type": "tamil_script"
+  },
+  "sakkili": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "untouchable (slur)",
+    "type": "tanglish"
+  },
+  "கிருஷ்ணன் மகன்": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Iyengar)",
+    "type": "tamil_script"
+  },
+  "krishnan magan": {
+    "category": "slur",
+    "severity": "moderate",
+    "meaning": "caste slur (Iyengar)",
+    "type": "tanglish"
+  },
+  "soothi pund": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "bastard cunt",
+    "type": "tanglish"
+  },
+  "கத்துற சுன்னி": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "screaming dick",
+    "type": "tamil_script"
+  },
+  "kaththura sunni": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "screaming dick",
+    "type": "tanglish"
+  },
+  "உன் வீட்டுக்காரி தேவிடியா": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your wife is a whore",
+    "type": "tamil_script"
+  },
+  "un veettukaari dhevidiyaa": {
+    "category": "family_insult",
+    "severity": "severe",
+    "meaning": "your wife is a whore",
+    "type": "tanglish"
+  },
+  "கொலைவெறி": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "murderous rage",
+    "type": "tamil_script"
+  },
+  "kolaiveri": {
+    "category": "insult",
+    "severity": "severe",
+    "meaning": "murderous rage",
+    "type": "tanglish"
+  },
+  "வேஸ்டு புண்டை": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "waste cunt",
+    "type": "tamil_script"
+  },
+  "vèstu pundai": {
+    "category": "profanity",
+    "severity": "severe",
+    "meaning": "waste cunt",
+    "type": "tanglish"
+  }
+}
